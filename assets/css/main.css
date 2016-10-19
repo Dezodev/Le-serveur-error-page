@@ -1645,10 +1645,10 @@
 	}
 
 	/* Liste */
-	ol, ul, li { list-style: disc inside; padding-left: 15px; }
-	ol, ul { margin-bottom: 0.6em; }
-	ol ol, ul ul,
-	ol ul, ul ol { margin-bottom: 0; }
+	.content-bloc ol, .content-bloc ul, .content-bloc li { list-style: disc inside; padding-left: 15px; }
+	.content-bloc ol, .content-bloc ul { margin-bottom: 0.6em; }
+	.content-bloc ol ol, .content-bloc ul ul,
+	.content-bloc ol ul, .content-bloc ul ol { margin-bottom: 0; }
 	.content-bloc ol, .content-bloc ul, 
 	.content-bloc li, .content-bloc p { text-align: left; } 
 
