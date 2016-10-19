@@ -1,6 +1,8 @@
 # Le-serveur error page
 
-Le-serveur error page est un pack de page html pour afficher les erreurs HTTP, ainsi qu'une page de maintenance `index.html`. L'affichage des erreurs se font d'une manière plus visuelle et un petit peu plus "fun". Votre serveur prend la parole. Tester pour voir ce qu'il nous raconte.
+:gb: : Le-serveur error page is an HTML page pack to display HTTP errors, and a maintenance page on `index.html`. The errors are displayed in a more visual way and a little more "fun". Your server speaks. Test to see what it tells us.
+
+:fr: : Le-serveur error page est un pack de page html pour afficher les erreurs HTTP, ainsi qu'une page de maintenance `index.html`. L'affichage des erreurs se font d'une manière plus visuelle et un petit peu plus "fun". Votre serveur prend la parole. Tester pour voir ce qu'il nous raconte.
 
 ![Le-serveur error page screenshot](not-to-transfer/images1.png)
 
@@ -9,6 +11,11 @@ Le-serveur error page est un pack de page html pour afficher les erreurs HTTP, a
 2. Transfer the files on your server
     * If you do not need maintenance page, do not transfer `` index.html ``
     * If you already have a `` .htaccess ``, add content to the end of your file
+
+## Demo
+* [Maintenance page](https://dezodev.github.io/Le-serveur-error-page/error/index.html)
+* [404 error page](https://dezodev.github.io/Le-serveur-error-page/error/404.html)
+* [403 error page](https://dezodev.github.io/Le-serveur-error-page/error/403.html)
 
 ## Contributing
 1. Fork it!
