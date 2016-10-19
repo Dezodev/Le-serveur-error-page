@@ -1,0 +1,5 @@
+
+# DO NOT REMOVE : Error page management
+ErrorDocument 403 /error/403.html
+ErrorDocument 404 /error/404.html
+# DO NOT REMOVE : Error page management
