@@ -28,8 +28,9 @@
 * [ ] Add multilanguage version
 * [ ] Add another errors pages
 
-## Credits
-* Author : Dezodev
+## Informations
+
+* Author : [Dezodev](https://dezo.dev)
 * Version : 0.1.0
 * Include : Bootstrap, Emojione
 
